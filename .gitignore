@@ -14,7 +14,7 @@ test.py
 
 # Локальные данные / индексы
 data/chroma/
-data/raw/*.pdf
+.DS_Store
 
 # Бандлы
 *.bundle
